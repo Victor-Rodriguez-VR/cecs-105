@@ -1,8 +1,8 @@
 # cecs-105
-CECS 105 Workshop :)
+CECS 105 Workshop assignment to get us into Github :)
 
 
 
-Test test, adding something test!
+Testing testing, nothing to see here!
 
 
